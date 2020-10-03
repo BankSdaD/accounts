@@ -1,0 +1,2 @@
+com/example/accounts/AccountsApplication.java
+ com.example.accounts.AccountsApplication
